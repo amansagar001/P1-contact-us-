@@ -1,0 +1,21 @@
+.contact_section {
+  /* max-width: 1000px; */
+  margin: 0 auto;
+}
+
+.contact_section h1 {
+  font-size: 48px;
+  font-weight: 800;
+  max-width: 400px;
+  margin: 0 auto;
+  text-shadow: 5px 5px 5px rgba(215, 135, 44, 0.5);
+}
+.contact_section p {
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+::selection {
+  background-color: yellow;
+  color: rgb(234, 24, 24);
+}
